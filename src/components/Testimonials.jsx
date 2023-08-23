@@ -6,7 +6,7 @@ const Testimonials = () => {
     {
       id: 1,
       title: "Josee P.",
-      position: "Program Manager",
+      position: "Timby - Program Manager",
       comment:
         "Ghandi did a great job designing our new newsletter. He was open to our feedback and worked with us until it was perfect!",
       src: "https://www.catchafire.org/impact/match/3049325/timby--email-layout---template/",
@@ -14,15 +14,15 @@ const Testimonials = () => {
     {
       id: 2,
       title: "Renika J. S.",
-      position: "Founder & CEO",
+      position: "Generation Now - Founder & CEO",
       comment:
-        "This project is estimated to save us $2,455, allowing us to To better communicate our organizations news with our members.",
+        "This project is estimated to save us $2,455, allowing us to To better communicate our organization's news with our members.",
       src: "https://www.catchafire.org/impact/match/3044363/generation-now--email-layout---template/",
     },
     {
       id: 3,
       title: "Lawrence L.",
-      position: "Manager",
+      position: "Artportunity Knocks - Manager",
       comment:
         "Ghandi provided us with a clean, simple, and functional email template to use for our newsletters. He provided clear communication throughout the process and delivered in a very timely manner.",
       src: "https://www.catchafire.org/impact/match/3255253/artportunity-knocks--email-layout---template/",
@@ -40,12 +40,12 @@ const Testimonials = () => {
       >
         <div>
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
-            Testimonoals
+            Testimonials
           </p>
           <p className="py-6">
-            These are what people whose projects i've worked on have had to say
+            These are what people whose projects I've worked on have had to say
             about me. I'm proud to say that I worked to the best of my abilities
-            to provide quality work and i've also attached a link to the impact
+            to provide quality work and I've also attached a link to the impact
             story pages.
           </p>
         </div>
